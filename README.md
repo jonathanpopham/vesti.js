@@ -1,2 +1,3 @@
-# vesti.js
-made up javascript framework
+ vesti.js
+
+The (un)necessary  Javascript Framework
